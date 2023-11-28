@@ -53,10 +53,6 @@
 	</a>
 </p>
 
-<details>
-  <summary>📃 Resumo</summary>
-
-
 ## Formação:
 
 - 📖 **Bacharel em Ciência da Computação**\
